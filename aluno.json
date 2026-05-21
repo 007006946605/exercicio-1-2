@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Marcia Souza",
+        "idade": 20,
+        "curso": "Informatica"
+    },
+    {
+        "nome": "João Silva",
+        "idade": 19,
+        "curso": "admnistração"
+    },
+    {
+        "nome": "Ana Rambus",
+        "idade": 21,
+        "curso": "design"
+    }
+]
