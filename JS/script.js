@@ -9,6 +9,8 @@ async function CarregarDados() {
             <h3>${aluno.nome}</h3>
             <p>Idade: ${aluno.idade}</p>
             <p>Curso: ${aluno.curso}</p>
+            <p>Cidade: ${aluno.cidade}</p>
+            <p>Email: <a href="mailto:${aluno.email}">${aluno.email}</a></p>
         </div>`;
     });
 }

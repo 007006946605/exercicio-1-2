@@ -2,16 +2,43 @@
     {
         "nome": "Marcia Souza",
         "idade": 20,
-        "curso": "Informatica"
+        "curso": "Informatica",
+        "cidade": "Campinas",
+        "email": "marcia.souza@example.com"
     },
     {
         "nome": "João Silva",
         "idade": 19,
-        "curso": "admnistração"
+        "curso": "admnistração",
+        "cidade": "Santos",
+        "email": "joao.silva@example.com"
     },
     {
         "nome": "Ana Rambus",
         "idade": 21,
-        "curso": "design"
+        "curso": "design",
+        "cidade": "Curitiba",
+        "email": "ana.rambus@example.com"
+    },
+    {
+        "nome": "Lucas Pereira",
+        "idade": 22,
+        "curso": "Engenharia",
+        "cidade": "São Paulo",
+        "email": "lucas.pereira@example.com"
+    },
+    {
+        "nome": "Mariana Costa",
+        "idade": 18,
+        "curso": "Biomedicina",
+        "cidade": "Rio de Janeiro",
+        "email": "mariana.costa@example.com"
+    },
+    {
+        "nome": "Rafael Gomes",
+        "idade": 23,
+        "curso": "Matemática",
+        "cidade": "Belo Horizonte",
+        "email": "rafael.gomes@example.com"
     }
 ]
